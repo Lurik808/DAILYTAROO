@@ -1,0 +1,67 @@
+html{
+background: url('https://sun1-26.userapi.com/impg/NsGWbLYWpM-YXU11OrUa4Hr3WZwp5_bR7ZaqkQ/-l36ggSNKRI.jpg?size=1280x720&quality=95&sign=6d6b53e2c03890afa24b3f05121397d0&type=album');
+background-position: fixed;
+
+}
+.ha{
+display:inline block;
+color: white;
+margin-left: 14cm;
+}
+.haha{
+display: inline-block;
+background-color: #250628;
+position: fixed;
+border: 4.5px orchid;
+border-style: dotted;
+border-radius: 50px;
+height: 400px;
+width: 500px;
+margin-left: 12cm;
+margin-top: 3cm;
+}
+.forma{
+display: inline-block;
+border-color: violet;
+border-radius: 30px;
+margin-top: 180px;
+margin-left: 2.5cm;
+height: 35px;
+width: 6cm;
+text-align: center;
+}
+.btn{
+border-radius: 30px;
+background-color: white;
+border-color: violet;
+color: darkmagenta;
+height: 40px;
+width: 2cm;
+}
+.maslov{
+display: inline-block;
+background-color: #250628;
+position: fixed;
+border: 4.5px orchid;
+border-style: dotted;
+border-radius: 50px;
+
+height: 450px;
+width: 550px;
+margin-left: 12cm;
+margin-top: 5cm;
+
+
+}
+.isupov{
+color: white;
+text-align:center;
+}
+.pogorelov{
+color:white;
+text-align:center;
+}
+.razumov{
+color:white;
+text-align:center;
+}

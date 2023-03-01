@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<form method = "POST" action="">
+    {% csrf_token %}
+    <h1 class="ha">Узнайте вашу карту дня</h1>
+    <div class="haha">
+        <input type="text" name="name_user" class="forma">
+        <input type="submit" value="Узнать" class="btn">
+    </div>
+</form>
+{% endblock %}

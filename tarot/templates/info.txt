@@ -1,0 +1,1 @@
+[['sun','sun_info'],['star','star_info'],['fool','fool_info']]
